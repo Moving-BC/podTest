@@ -1,0 +1,5 @@
+target 'podTest' do
+
+pod 'Masonry'
+
+end
